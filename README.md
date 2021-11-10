@@ -1,4 +1,4 @@
-## 💜 Hello, my name is <strong> {Gláucia}!</strong>
+## 💜 Hello, my name is <strong> Gláucia!</strong>
 
 <div>
     <a target='_blank' href="https://twitch.tv/glauesppen">
@@ -21,6 +21,8 @@
     </a>
 </div>
 
+
+
 - 🔭 I’m currently working at Critical TechWorks
 - 🌱 I’m currently learning CPython Internals
 - 👯 I’m looking to collaborate on open-source projects
@@ -30,4 +32,5 @@
 - ⚡ Fun fact: I love flight engineering
 
 
-[![glauesppen](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/glauesppen/)
+
+[![glauesppen](https://github-readme-stats.vercel.app/api/top-langs/?username=glauesppen&hide=html&layout=compact&theme=tokyonight)](https://github.com/glauesppen/)
