@@ -21,7 +21,7 @@
     </a>
 </div>
 
-
+### Bio
 
 - 🔭 I’m currently working at Critical TechWorks
 - 🌱 I’m currently learning CPython Internals
@@ -32,5 +32,17 @@
 - ⚡ Fun fact: I love flight engineering
 
 
+### Languages
+(https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+(https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+
+
+### Skills
+(https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+(https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+(https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+(https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white)
+(https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+(https://img.shields.io/badge/docker%20-%231572B6.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
 [![glauesppen](https://github-readme-stats.vercel.app/api/top-langs/?username=glauesppen&hide=html&layout=compact&theme=tokyonight)](https://github.com/glauesppen/)
