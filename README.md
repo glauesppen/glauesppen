@@ -23,13 +23,13 @@
 
 ### Bio
 
-- 🔭 I’m currently working at Critical TechWorks
+- 🔭 I’m currently working at Cloudera
 - 🌱 I’m currently learning CPython Internals
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with SQL
+- 🤔 I’m looking for help with Hadoop Internals
 - 💬 Ask me about Data Engineering and DevOps
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love flight engineering
+- ⚡ Fun fact: I love coffee science!
 
 
 ### Languages
