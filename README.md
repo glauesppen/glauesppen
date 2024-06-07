@@ -23,7 +23,7 @@
 
 ### Bio
 
-- 🔭 I’m currently working at Cloudera
+- 🔭 I’m currently working at AiFi
 - 🌱 I’m currently learning CPython Internals
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with Hadoop Internals
